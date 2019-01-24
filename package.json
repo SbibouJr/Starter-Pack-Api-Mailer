@@ -1,7 +1,7 @@
 {
   "name": "Starter-Pack-Api-Mailer",
   "version": "0.0.0",
-  "description": "",
+  "description": "A Starter Pack for create an Api-Mailer for send mail.",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start ./src/index.js --no-daemon --watch",
